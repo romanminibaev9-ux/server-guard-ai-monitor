@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project logs
+ai_datasets/
+server_logs/
+.idea/

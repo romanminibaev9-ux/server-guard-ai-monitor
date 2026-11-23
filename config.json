@@ -1,0 +1,6 @@
+{
+    "default_url": "http://127.0.0.1:8000",
+    "timeout_sec": 10,
+    "logs_dir": "ai_datasets",
+    "log_filename": "downloader.log"
+}
